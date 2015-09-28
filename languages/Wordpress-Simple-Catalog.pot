@@ -1,0 +1,174 @@
+# Copyright (C) 2015 WP Simple Catalog
+# This file is distributed under the same license as the WP Simple Catalog package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Simple Catalog 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/Wordpress-Simple-"
+"Catalog\n"
+"POT-Creation-Date: 2015-08-18 15:34:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-wc-admin-taxonomies.php:91
+#: includes/class-wc-admin-taxonomies.php:179
+msgid "Display type"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:93
+#: includes/class-wc-admin-taxonomies.php:182
+msgid "Default"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:94
+#: includes/class-wc-admin-taxonomies.php:183 wp-simple-catalog.php:63
+msgid "Products"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:95
+#: includes/class-wc-admin-taxonomies.php:184
+msgid "Subcategories"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:96
+#: includes/class-wc-admin-taxonomies.php:185
+msgid "Both"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:100
+#: includes/class-wc-admin-taxonomies.php:190
+#: includes/class-wc-admin-taxonomies.php:329
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:104
+#: includes/class-wc-admin-taxonomies.php:195
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:105
+#: includes/class-wc-admin-taxonomies.php:196
+msgid "Remove image"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:129
+#: includes/class-wc-admin-taxonomies.php:220
+msgid "Choose an image"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:131
+#: includes/class-wc-admin-taxonomies.php:222
+msgid "Use image"
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:272
+msgid ""
+"Product categories for your store can be managed here. To change the order "
+"of categories on the front-end you can drag and drop to sort them. To see "
+"more categories listed click the \"screen options\" link at the top of the "
+"page."
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:279
+msgid ""
+"Shipping classes can be used to group products of similar type. These groups "
+"can then be used by certain shipping methods to provide different rates to "
+"different products."
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:286
+msgid ""
+"Attribute terms can be assigned to products and variations.<br/><br/"
+"><b>Note</b>: Deleting a term will remove it from all products and "
+"variations to which it has been assigned. Recreating a term will not "
+"automatically assign it back to products."
+msgstr ""
+
+#: includes/class-wc-admin-taxonomies.php:298
+msgid "Image"
+msgstr ""
+
+#: wp-simple-catalog.php:32
+msgctxt "category general name"
+msgid "Category"
+msgstr ""
+
+#: wp-simple-catalog.php:33
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr ""
+
+#: wp-simple-catalog.php:34
+msgid "Search Categories"
+msgstr ""
+
+#: wp-simple-catalog.php:35
+msgid "All Categories"
+msgstr ""
+
+#: wp-simple-catalog.php:36
+msgid "Parent Category"
+msgstr ""
+
+#: wp-simple-catalog.php:37
+msgid "Parent Category:"
+msgstr ""
+
+#: wp-simple-catalog.php:38
+msgid "Edit Category"
+msgstr ""
+
+#: wp-simple-catalog.php:39
+msgid "Update Category"
+msgstr ""
+
+#: wp-simple-catalog.php:40
+msgid "Add New Category"
+msgstr ""
+
+#: wp-simple-catalog.php:41
+msgid "New Category Name"
+msgstr ""
+
+#: wp-simple-catalog.php:42
+msgid "Category"
+msgstr ""
+
+#: wp-simple-catalog.php:64
+msgid "Product"
+msgstr ""
+
+#: wp-simple-catalog.php:110
+msgid "Simple Catalog"
+msgstr ""
+
+#: wp-simple-catalog.php:112
+msgid "Settings"
+msgstr ""
+
+#: wp-simple-catalog.php:114
+msgid "Manage products"
+msgstr ""
+
+#: wp-simple-catalog.php:116
+msgid "Manage categories"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Simple Catalog"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simple catalog with a plugin that make blocks in a wordpress page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pedro A. Carrasco Ponce"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pecasoft.net/"
+msgstr ""
